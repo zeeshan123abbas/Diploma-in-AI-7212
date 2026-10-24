@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "P001",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 1800,
+    "stock": 45,
+    "tags": [
+      "computer",
+      "accessory"
+    ],
+    "ratings": [
+      5,
+      4,
+      4
+    ],
+    "specs": {
+      "brand": "Logitech",
+      "warrantyMonths": 12
+    }
+  },
+  {
+    "_id": "P002",
+    "name": "USB-C Charger 65W",
+    "category": "Electronics",
+    "price": 4500,
+    "stock": 20,
+    "tags": [
+      "mobile",
+      "laptop",
+      "charger"
+    ],
+    "ratings": [
+      5,
+      5,
+      4
+    ],
+    "specs": {
+      "brand": "Anker",
+      "warrantyMonths": 18
+    }
+  },
+  {
+    "_id": "P003",
+    "name": "Bluetooth Earbuds",
+    "category": "Electronics",
+    "price": 6999,
+    "stock": 0,
+    "tags": [
+      "audio",
+      "mobile"
+    ],
+    "ratings": [
+      3,
+      4
+    ],
+    "specs": {
+      "brand": "Audionic",
+      "warrantyMonths": 6
+    }
+  },
+  {
+    "_id": "P004",
+    "name": "Python Crash Course",
+    "category": "Books",
+    "price": 3200,
+    "stock": 12,
+    "tags": [
+      "programming",
+      "python"
+    ],
+    "ratings": [
+      5,
+      5,
+      5,
+      4
+    ]
+  },
+  {
+    "_id": "P005",
+    "name": "Data Science Handbook",
+    "category": "Books",
+    "price": 4100,
+    "stock": 8,
+    "tags": [
+      "data",
+      "python",
+      "statistics"
+    ],
+    "ratings": [
+      4,
+      5
+    ]
+  },
+  {
+    "_id": "P006",
+    "name": "Cotton Kurta",
+    "category": "Clothing",
+    "price": 2800,
+    "stock": 60,
+    "tags": [
+      "men",
+      "summer"
+    ],
+    "ratings": [
+      4,
+      3,
+      4
+    ]
+  },
+  {
+    "_id": "P007",
+    "name": "Lawn Suit 3-Piece",
+    "category": "Clothing",
+    "price": 5500,
+    "stock": 25,
+    "tags": [
+      "women",
+      "summer",
+      "eid"
+    ],
+    "ratings": [
+      5,
+      4
+    ]
+  },
+  {
+    "_id": "P008",
+    "name": "Basmati Rice 5kg",
+    "category": "Grocery",
+    "price": 2400,
+    "stock": 100,
+    "tags": [
+      "rice",
+      "staple"
+    ],
+    "ratings": [
+      4,
+      4,
+      5
+    ]
+  },
+  {
+    "_id": "P009",
+    "name": "Green Tea 50 Bags",
+    "category": "Grocery",
+    "price": 650,
+    "stock": 80,
+    "tags": [
+      "tea",
+      "healthy"
+    ],
+    "ratings": []
+  },
+  {
+    "_id": "P010",
+    "name": "Laptop Stand",
+    "category": "Electronics",
+    "price": 3500,
+    "stock": 15,
+    "tags": [
+      "computer",
+      "office"
+    ],
+    "ratings": [
+      4
+    ],
+    "specs": {
+      "brand": "Generic"
+    }
+  }
+]
