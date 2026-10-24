@@ -1,0 +1,248 @@
+[
+  {
+    "_id": "O001",
+    "customerId": "C001",
+    "city": "Karachi",
+    "orderDate": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "qty": 2,
+        "price": 1800
+      },
+      {
+        "productId": "P004",
+        "qty": 1,
+        "price": 3200
+      }
+    ],
+    "total": 6800,
+    "status": "delivered",
+    "payment": "Card"
+  },
+  {
+    "_id": "O002",
+    "customerId": "C002",
+    "city": "Lahore",
+    "orderDate": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P008",
+        "qty": 3,
+        "price": 2400
+      }
+    ],
+    "total": 7200,
+    "status": "delivered",
+    "payment": "COD"
+  },
+  {
+    "_id": "O003",
+    "customerId": "C003",
+    "city": "Karachi",
+    "orderDate": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P003",
+        "qty": 1,
+        "price": 6999
+      }
+    ],
+    "total": 6999,
+    "status": "cancelled",
+    "payment": "Card"
+  },
+  {
+    "_id": "O004",
+    "customerId": "C001",
+    "city": "Karachi",
+    "orderDate": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P005",
+        "qty": 1,
+        "price": 4100
+      },
+      {
+        "productId": "P009",
+        "qty": 4,
+        "price": 650
+      }
+    ],
+    "total": 6700,
+    "status": "delivered",
+    "payment": "COD"
+  },
+  {
+    "_id": "O005",
+    "customerId": "C004",
+    "city": "Islamabad",
+    "orderDate": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P002",
+        "qty": 1,
+        "price": 4500
+      },
+      {
+        "productId": "P010",
+        "qty": 1,
+        "price": 3500
+      }
+    ],
+    "total": 8000,
+    "status": "delivered",
+    "payment": "Card"
+  },
+  {
+    "_id": "O006",
+    "customerId": "C005",
+    "city": "Lahore",
+    "orderDate": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P007",
+        "qty": 2,
+        "price": 5500
+      }
+    ],
+    "total": 11000,
+    "status": "delivered",
+    "payment": "Card"
+  },
+  {
+    "_id": "O007",
+    "customerId": "C006",
+    "city": "Karachi",
+    "orderDate": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P006",
+        "qty": 1,
+        "price": 2800
+      },
+      {
+        "productId": "P008",
+        "qty": 1,
+        "price": 2400
+      }
+    ],
+    "total": 5200,
+    "status": "shipped",
+    "payment": "COD"
+  },
+  {
+    "_id": "O008",
+    "customerId": "C002",
+    "city": "Lahore",
+    "orderDate": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "qty": 1,
+        "price": 1800
+      }
+    ],
+    "total": 1800,
+    "status": "pending",
+    "payment": "COD"
+  },
+  {
+    "_id": "O009",
+    "customerId": "C004",
+    "city": "Islamabad",
+    "orderDate": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P004",
+        "qty": 2,
+        "price": 3200
+      },
+      {
+        "productId": "P005",
+        "qty": 1,
+        "price": 4100
+      }
+    ],
+    "total": 10500,
+    "status": "delivered",
+    "payment": "Card"
+  },
+  {
+    "_id": "O010",
+    "customerId": "C003",
+    "city": "Karachi",
+    "orderDate": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P009",
+        "qty": 2,
+        "price": 650
+      }
+    ],
+    "total": 1300,
+    "status": "pending",
+    "payment": "COD"
+  },
+  {
+    "_id": "O011",
+    "customerId": "C005",
+    "city": "Lahore",
+    "orderDate": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P002",
+        "qty": 1,
+        "price": 4500
+      }
+    ],
+    "total": 4500,
+    "status": "shipped",
+    "payment": "Card"
+  },
+  {
+    "_id": "O012",
+    "customerId": "C001",
+    "city": "Karachi",
+    "orderDate": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "items": [
+      {
+        "productId": "P010",
+        "qty": 1,
+        "price": 3500
+      },
+      {
+        "productId": "P001",
+        "qty": 1,
+        "price": 1800
+      }
+    ],
+    "total": 5300,
+    "status": "pending",
+    "payment": "Card"
+  }
+]
