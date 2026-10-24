@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "C001",
+    "name": "Ayesha Khan",
+    "email": "ayesha@example.com",
+    "city": "Karachi",
+    "age": 24,
+    "isPremium": true,
+    "joined": {
+      "$date": "2025-03-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "C002",
+    "name": "Bilal Ahmed",
+    "email": "bilal@example.com",
+    "city": "Lahore",
+    "age": 31,
+    "isPremium": false,
+    "joined": {
+      "$date": "2025-06-22T00:00:00Z"
+    }
+  },
+  {
+    "_id": "C003",
+    "name": "Sara Ali",
+    "email": "sara@example.com",
+    "city": "Karachi",
+    "age": 19,
+    "isPremium": false,
+    "joined": {
+      "$date": "2025-11-05T00:00:00Z"
+    }
+  },
+  {
+    "_id": "C004",
+    "name": "Usman Tariq",
+    "email": "usman@example.com",
+    "city": "Islamabad",
+    "age": 42,
+    "isPremium": true,
+    "joined": {
+      "$date": "2024-12-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": "C005",
+    "name": "Hina Raza",
+    "email": "hina@example.com",
+    "city": "Lahore",
+    "age": 27,
+    "isPremium": true,
+    "joined": {
+      "$date": "2026-01-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "C006",
+    "name": "Faraz Hussain",
+    "email": "faraz@example.com",
+    "city": "Karachi",
+    "age": 35,
+    "isPremium": false,
+    "joined": {
+      "$date": "2026-02-20T00:00:00Z"
+    }
+  }
+]
