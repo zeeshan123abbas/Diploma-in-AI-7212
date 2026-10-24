@@ -1,0 +1,7 @@
+{
+  "name": "Ayesha Khan",
+  "age": 24,
+  "isEnrolled": true,
+  "skills": ["Python", "SQL"],
+  "address": { "city": "Karachi", "area": "North Nazimabad" }
+}
