@@ -1,0 +1,6 @@
+StudentID,FirstName,LastName,Email,City,DeptID,EnrollDate
+201,Iqra,Naseem,iqra@mail.com,Karachi,1,2026-06-01
+202,Hamza,Butt,hamza@mail.com,Lahore,2,2026-06-01
+203,Mariam,Aslam,mariam@mail.com,Karachi,1,2026-06-02
+204,Taha,Rizvi,taha@mail.com,Multan,3,2026-06-03
+205,Noor,Fatima,noor@mail.com,Karachi,2,2026-06-03
