@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 2rem; }
+nav a { color: #0b5ed7; text-decoration: none; }
+table { border-collapse: collapse; margin-top: 1rem; }
+th, td { border: 1px solid #ccc; padding: 6px 12px; }
+th { background: #f1f3f5; }
+label { display: block; margin: .5rem 0; }
+.msg { color: #146c43; font-weight: bold; }
