@@ -1,0 +1,31 @@
+BI Connector - classic setup steps (for understanding and exams)
+==================================================================
+NOTE: MongoDB ended support for the BI Connector in September 2026.
+For real projects use the MongoDB SQL Interface (Atlas / Enterprise Advanced)
+or export CSV files as shown in this session.
+
+1. Install the MongoDB Connector for BI. It provides the program "mongosqld".
+
+2. Start it and point it at your MongoDB server:
+      mongosqld --mongo-uri "mongodb://localhost:27017" --addr 127.0.0.1:3307
+   mongosqld samples your collections and builds a relational (table) view.
+   Arrays become separate tables, e.g. orders_items.
+
+3. Install the MongoDB ODBC driver (64-bit, same bitness as Excel).
+
+4. Create a System DSN:
+   Windows search > "ODBC Data Sources (64-bit)" > System DSN > Add
+   > MongoDB ODBC Unicode Driver
+   Data Source Name : shopdb-bi
+   TCP/IP Server    : 127.0.0.1     Port: 3307
+   Database         : shopdb
+   Click Test, then OK.
+
+5. In Excel: Data > Get Data > From Other Sources > From ODBC
+   > choose "shopdb-bi" > select a table (e.g. orders) > Load.
+
+6. Example SQL that a BI tool could send through the connector:
+      SELECT city, SUM(total) AS revenue
+      FROM orders
+      WHERE status <> 'cancelled'
+      GROUP BY city;
