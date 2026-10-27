@@ -1,0 +1,16 @@
+receiptNo.string(),date.string(),city.string(),product.string(),qty.auto(),amount.auto()
+R1001,2026-04-01,Karachi,Basmati Rice 5kg,2,4800
+R1002,2026-04-01,karachi ,Green Tea 50 Bags,3,1950
+R1003,2026-04-01,KHI,Wireless Mouse,1,1800
+R1004,2026-04-01,Lahore,Cotton Kurta,2,5600
+R1005,2026-04-01,lhr,Python Crash Course,1,3200
+R1006,2026-04-02,Lahore,Laptop Stand,1,
+R1007,2026-04-02,Karachi,USB-C Charger 65W,1,4500
+R1008,2026-04-02,Islamabad,Lawn Suit 3-Piece,1,5500
+R1009,2026-04-02,islamabad,Data Science Handbook,2,8200
+R1010,2026-04-02,ISB,Basmati Rice 5kg,1,2400
+R1011,2026-04-03,Karachi,Bluetooth Earbuds,1,six thousand
+R1012,2026-04-03,Lahore ,Green Tea 50 Bags,4,2600
+R1013,2026-04-03,Karachi,Cotton Kurta,1,2800
+R1013,2026-04-03,Karachi,Cotton Kurta,1,2800
+R1014,2026-04-03,Quetta,Wireless Mouse,2,3600
