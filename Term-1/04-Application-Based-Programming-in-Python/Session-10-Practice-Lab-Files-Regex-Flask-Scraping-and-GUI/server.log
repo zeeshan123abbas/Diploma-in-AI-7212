@@ -1,0 +1,8 @@
+2026-10-20 09:15:02 INFO  user=ali@example.com login success ip=192.168.1.10
+2026-10-20 09:17:45 ERROR user=sara@example.com login failed ip=192.168.1.22
+2026-10-20 09:18:10 ERROR user=sara@example.com login failed ip=192.168.1.22
+2026-10-20 10:02:33 INFO  user=bilal@example.com upload file=report.pdf ip=10.0.0.5
+2026-10-20 10:40:12 WARN  disk usage 85% on server-2
+2026-10-20 11:05:59 INFO  user=sara@example.com login success ip=192.168.1.22
+2026-10-20 11:30:00 ERROR database timeout after 30s
+2026-10-20 12:12:41 INFO  user=hina@example.com download file=marks.xlsx ip=10.0.0.9
