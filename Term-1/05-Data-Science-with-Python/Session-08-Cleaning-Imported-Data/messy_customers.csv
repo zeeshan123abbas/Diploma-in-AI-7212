@@ -1,0 +1,12 @@
+customer_id,name,city,age,monthly_income,join_date
+1,Ali Khan,Karachi,28,85000,2025-01-15
+2,  sara ahmed ,karachi,,62000,2025-02-03
+3,Bilal Raza,Lahore,35,,2025-02-20
+4,Hina Malik,LAHORE,41,150000,2025-03-11
+5,Usman Tariq,Islamabad,23,45000,2025-03-30
+5,Usman Tariq,Islamabad,23,45000,2025-03-30
+6,Zainab Noor,,30,72000,2025-04-18
+7,Faisal Iqbal,Karachi,250,98000,2025-05-02
+8,Amna Shah,Peshawar,27,55000,2025-05-21
+9,Kashif Ali,Lahore,,68000,2025-06-09
+10,Rida Fatima,karachi ,33,unknown,2025-06-28
