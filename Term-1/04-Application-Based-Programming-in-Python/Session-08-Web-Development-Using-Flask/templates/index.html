@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+  <h1>{{ title }}</h1>
+  <table>
+    <tr><th>Name</th><th>Marks</th><th>Result</th></tr>
+    {% for s in students %}
+      <tr>
+        <td>{{ s.name }}</td>
+        <td>{{ s.marks }}</td>
+        <td>{% if s.marks >= 60 %}Pass{% else %}Fail{% endif %}</td>
+      </tr>
+    {% endfor %}
+  </table>
+  <p>Total students: {{ students|length }}</p>
+{% endblock %}
