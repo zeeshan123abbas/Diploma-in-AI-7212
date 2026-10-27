@@ -1,0 +1,5 @@
+_id.string(),name.string(),category.string(),price.int32(),stock.int32()
+P101,Steel Water Bottle,Kitchen,1200,40
+P102,Prayer Mat,Home,1800,25
+P103,School Bag,Accessories,2600,30
+P104,Desk Organizer,Office,950,50
