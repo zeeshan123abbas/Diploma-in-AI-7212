@@ -1,0 +1,13 @@
+[
+  {"order_id": 1, "customer": "ahmed raza", "city": "Karachi", "product": "Laptop", "price": 145000, "qty": 1, "order_date": "2026-01-05"},
+  {"order_id": 2, "customer": "Sana Javed", "city": "lahore", "product": "Mouse", "price": 1500, "qty": 3, "order_date": "2026-01-09"},
+  {"order_id": 3, "customer": "Omer Farooq", "city": "Islamabad", "product": "Keyboard", "price": null, "qty": 2, "order_date": "2026-01-14"},
+  {"order_id": 4, "customer": "Nida Ali", "city": "KARACHI", "product": "Monitor", "price": 42000, "qty": 1, "order_date": "2026-02-02"},
+  {"order_id": 4, "customer": "Nida Ali", "city": "KARACHI", "product": "Monitor", "price": 42000, "qty": 1, "order_date": "2026-02-02"},
+  {"order_id": 5, "customer": "Hassan Shah", "city": null, "product": "Laptop", "price": 152000, "qty": 1, "order_date": "2026-02-11"},
+  {"order_id": 6, "customer": " maham khan ", "city": "Lahore", "product": "Mouse", "price": 1450, "qty": -2, "order_date": "2026-02-19"},
+  {"order_id": 7, "customer": "Waqas Ahmed", "city": "Karachi", "product": "Headphones", "price": 6500, "qty": 2, "order_date": "2026-03-03"},
+  {"order_id": 8, "customer": "Aliya Noor", "city": "Islamabad", "product": "Monitor", "price": 39500, "qty": 2, "order_date": "2026-03-15"},
+  {"order_id": 9, "customer": "Imran Butt", "city": "Lahore", "product": "Keyboard", "price": 3200, "qty": 4, "order_date": "2026-03-22"},
+  {"order_id": 10, "customer": "Sadia Iqbal", "city": "Karachi", "product": "Headphones", "price": 7000, "qty": null, "order_date": "2026-03-28"}
+]
