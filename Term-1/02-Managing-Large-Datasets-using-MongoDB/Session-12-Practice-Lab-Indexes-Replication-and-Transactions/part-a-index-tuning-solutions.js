@@ -25,7 +25,7 @@ measure("covered", db.bigorders.find({ city: "Lahore", total: { $gt: 19000 } }, 
 // Task 4: find indexes never used and drop them (_id_ is kept)
 db.bigorders.createIndex({ payment: 1 });          // an index nobody uses
 db.bigorders.aggregate([{ $indexStats: {} }]).forEach(stat => {
-  if (stat.name !== "_id_" && stat.accesses.ops == 0) {
+  if (stat.name !== "_id_" && Number(stat.accesses.ops) === 0) {
     print("dropping unused index: " + stat.name);
     db.bigorders.dropIndex(stat.name);
   }
