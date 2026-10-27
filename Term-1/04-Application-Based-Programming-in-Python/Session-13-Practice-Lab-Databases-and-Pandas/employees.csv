@@ -1,0 +1,11 @@
+emp_id,name,department,city,join_date,salary,rating
+1,Ahmed Khan,IT,Karachi,2021-03-15,180000,4.5
+2,sana iqbal,HR,Lahore,2019-07-01,120000,3.8
+3,Faraz Ali,IT,Lahore,2022-01-10,150000,4.1
+4,Mehwish Raza,Sales,Karachi,2020-11-20,95000,3.5
+5,Kamran Shah ,Sales,Islamabad,2023-02-05,88000,
+6,Nida Hassan,IT,Karachi,2018-05-30,240000,4.8
+7,Omer Farooq,Finance,Lahore,2021-09-12,160000,4.0
+8,Rabia Noor,HR,Karachi,2022-06-18,105000,4.2
+9,Saad Qureshi,Finance,Islamabad,2020-04-25,175000,3.9
+10,tooba malik,Sales,Lahore,2024-01-08,82000,3.6
